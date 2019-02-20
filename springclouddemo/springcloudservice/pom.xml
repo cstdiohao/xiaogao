@@ -7,7 +7,7 @@
     <groupId>com.demo</groupId>
     <artifactId>com.demo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>eureka-service</name>
+    <name>nihao-eureka-service</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -39,6 +39,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.35</version>
         </dependency>
 
     </dependencies>

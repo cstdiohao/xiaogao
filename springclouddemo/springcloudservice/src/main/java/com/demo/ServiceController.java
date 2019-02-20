@@ -1,18 +1,22 @@
 package com.demo;
 
+import com.alibaba.fastjson.JSONObject;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class ServiceController {
 
-    @RequestMapping(value = "/add", method = RequestMethod.GET)
-    public String index(){
-        return "Hi,dy_bom! this is  provider-node1 of peer!";
+    @RequestMapping(value = "/get", method = RequestMethod.GET)
+    public String index(@RequestHeader("header") String header, Long id){
+        return header + " " + id;
     }
 
-    @RequestMapping(value = "/test", method = RequestMethod.POST)
-    public String test(@RequestHeader("aaa") String aaa){
-        return aaa;
+    @RequestMapping(value = "/post", method = RequestMethod.POST)
+    public JSONObject test(@RequestHeader("header") String header, JSONObject body){
+        body.put("header", header);
+        return body;
     }
+
+
 
 }
