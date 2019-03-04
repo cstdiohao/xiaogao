@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springclouddemo/springcloudribbon/com.demo.iml" filepath="$PROJECT_DIR$/springclouddemo/springcloudribbon/com.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springclouddemo/springcloudservice/com.demo (1) (com.demo).iml" filepath="$PROJECT_DIR$/springclouddemo/springcloudservice/com.demo (1) (com.demo).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springclouddemo/springclouddiscovery/demo.iml" filepath="$PROJECT_DIR$/springclouddemo/springclouddiscovery/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiaogao.iml" filepath="$PROJECT_DIR$/.idea/xiaogao.iml" />
+    </modules>
+  </component>
+</project>
