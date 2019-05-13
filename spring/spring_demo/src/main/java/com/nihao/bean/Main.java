@@ -19,9 +19,9 @@ public class Main {
 
     public static void main(String[] args) {
         XmlBeanFactory beanFactory = new XmlBeanFactory(new ClassPathResource("applicationContext.xml"));
-        MyTestBean bean = (MyTestBean) beanFactory.getBean("myTestBean");
+//        MyTestBean bean = (MyTestBean) beanFactory.getBean("myTestBean");
         MyBean myBean = (MyBean) beanFactory.getBean("myBean");
-        System.out.println(bean.getName());
+        System.out.println(myBean.getMyTestBean().getName());
     }
 
     @RequestMapping(value = "name", method = RequestMethod.GET)
