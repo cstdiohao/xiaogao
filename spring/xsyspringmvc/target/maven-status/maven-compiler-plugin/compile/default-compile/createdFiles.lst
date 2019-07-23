@@ -1,0 +1,5 @@
+com\xsy\springmvc\servlet\MyDispatcherServlet.class
+com\xsy\springmvc\annotation\MyController.class
+com\xsy\springmvc\annotation\MyRequestMapping.class
+com\xsy\springmvc\annotation\MyRequestParam.class
+com\xsy\springmvc\controller\TestController.class

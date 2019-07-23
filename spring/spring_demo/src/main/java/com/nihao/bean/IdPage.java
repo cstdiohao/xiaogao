@@ -3,19 +3,13 @@ package com.nihao.bean;
 import java.util.concurrent.atomic.AtomicLong;
 
 public class IdPage {
-    public static int pageSize = 50;
-
-    private volatile boolean isUpdating;
+    public static int pageSize = 10;
     private AtomicLong id;
-    private Long upperLimit;
-    private String key;
+    private Long maxValue;
+    private IdBuffer idBuffer;
 
-    public IdPage(){}
-
-    public IdPage(AtomicLong id, Long upperLimit, String key){
-        this.id = id;
-        this.upperLimit = upperLimit;
-        this.key = key;
+    public IdPage(IdBuffer idBuffer){
+        this.idBuffer = idBuffer;
     }
 
     public AtomicLong getId() {
@@ -26,27 +20,19 @@ public class IdPage {
         this.id = id;
     }
 
-    public Long getUpperLimit() {
-        return upperLimit;
+    public Long getMaxValue() {
+        return maxValue;
     }
 
-    public void setUpperLimit(Long upperLimit) {
-        this.upperLimit = upperLimit;
+    public void setMaxValue(Long maxValue) {
+        this.maxValue = maxValue;
     }
 
-    public boolean isUpdating() {
-        return isUpdating;
+    public IdBuffer getIdBuffer() {
+        return idBuffer;
     }
 
-    public void setUpdating(boolean updating) {
-        isUpdating = updating;
-    }
-
-    public String getKey() {
-        return key;
-    }
-
-    public void setKey(String key) {
-        this.key = key;
+    public void setIdBuffer(IdBuffer idBuffer) {
+        this.idBuffer = idBuffer;
     }
 }
