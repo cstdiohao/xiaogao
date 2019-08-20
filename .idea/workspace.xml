@@ -7,40 +7,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/leetcode/Leetcode132.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/leetcode/Leetcode132.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/spring_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/bean/IdBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/bean/IdBuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/bean/IdPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/bean/IdPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/controller/IdController.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/controller/IdController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/entity/IdRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/entity/IdRecord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/mapper/IdMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/mapper/IdMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/service/IdService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/service/IdService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/algorithm/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/algorithm/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/MyBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/MyBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/MyTestBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/bean/MyTestBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/classload/ClassLoadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/classload/ClassLoadMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/jdk8/completablefuture/completableFutureStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/jdk8/completablefuture/completableFutureStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/jdk8/lambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/jdk8/lambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/mutilthread/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/security/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/security/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/security/RkhdSecurityManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/security/RkhdSecurityManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/study/MyRecursiveTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/study/MyRecursiveTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/study/StudyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring_demo/target/classes/com/nihao/xiagao/study/StudyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/xsyspringmvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/xsyspringmvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/xsyspringmvc/xsy.spring.mvc.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springclouddemo/springclouddiscovery/target/" />
     <ignored path="$PROJECT_DIR$/springclouddemo/springcloudservice/target/" />
     <ignored path="$PROJECT_DIR$/springclouddemo/springcloudribbon/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/target/" />
     <ignored path="$PROJECT_DIR$/spring/spring_demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring/xsyspringmvc/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,29 +89,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1729" />
+          <entry key="java" value="2036" />
+          <entry key="xml" value="2" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1729" />
+          <entry key="JAVA" value="2036" />
+          <entry key="XML" value="2" />
           <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="14" />
+          <entry key="class" value="8" />
+          <entry key="java" value="16" />
           <entry key="sql" value="1" />
+          <entry key="xml" value="1" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="14" />
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="16" />
           <entry key="SQL" value="1" />
+          <entry key="XML" value="1" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -145,95 +124,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/RequestMappingInfoHandlerMapping.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode402.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="367">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/RequestMappingInfo.java">
+        <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3780">
-              <caret line="227" column="79" selection-start-line="227" selection-start-column="79" selection-end-line="227" selection-end-column="79" />
+            <state relative-caret-position="605">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/condition/PatternsRequestCondition.java">
+        <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3066">
-              <caret line="183" column="66" selection-start-line="183" selection-start-column="66" selection-end-line="183" selection-end-column="66" />
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode45.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+            <state relative-caret-position="504">
+              <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
               <folding>
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#751#1026#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode135.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode402.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="105">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/condition/RequestMethodsRequestCondition.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/socket/SocketChannel.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1407">
-              <caret line="101" column="42" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
+            <state relative-caret-position="126">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/condition/HeadersRequestCondition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3885">
-              <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/util/LinkedMultiValueMap.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelInitializer.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/bootstrap/ServerBootstrap.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="106" column="47" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelHandler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/nio/NioEventLoopGroup.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -279,6 +263,9 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode45.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode135.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode402.java" />
+        <option value="$PROJECT_DIR$/spring/xsyspringmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoClient.java" />
+        <option value="$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoServer.java" />
       </list>
     </option>
   </component>
@@ -311,7 +298,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -337,42 +324,58 @@
             <path>
               <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiagao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiagao" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiagao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiagao" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="xsyspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,7 +394,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566309973236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566314574916" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/spring-framework/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -523,18 +526,18 @@
       <workItem from="1563371827573" duration="683000" />
       <workItem from="1564407816877" duration="5083000" />
       <workItem from="1566224366130" duration="2730000" />
-      <workItem from="1566308395575" duration="1372000" />
+      <workItem from="1566308395575" duration="4963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32130000" />
+    <option name="totallyTimeSpent" value="35721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -545,12 +548,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31053203" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3756786" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3756786" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -561,7 +564,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.195629" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.195629" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -624,12 +627,6 @@
           <line>25</line>
           <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode402.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -908,8 +905,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/leetcode/Leetcode402.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="367">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/nio/NioEventLoopGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/bootstrap/ServerBootstrap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="106" column="47" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/socket/SocketChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.0.Final/netty-all-4.1.0.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/xsyspringmvc/src/main/java/com/nihao/netty/demo/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#751#1026#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
