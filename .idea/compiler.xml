@@ -9,6 +9,7 @@
         <module name="com.demo" />
         <module name="com.demo (1) (com.demo)" />
         <module name="leetcode" />
+        <module name="spring_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="com.demo (1) (com.demo)" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="leetcode" target="1.5" />
+      <module name="spring_demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

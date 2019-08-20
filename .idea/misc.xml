@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring/spring_demo" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -10,6 +13,7 @@
         <option value="$PROJECT_DIR$/springclouddemo/springcloudribbon/pom.xml" />
         <option value="$PROJECT_DIR$/springclouddemo/springcloudservice/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring_demo/pom.xml" />
       </list>
     </option>
   </component>

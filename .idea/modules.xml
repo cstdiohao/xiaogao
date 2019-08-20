@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/springclouddemo/springcloudribbon/com.demo.iml" filepath="$PROJECT_DIR$/springclouddemo/springcloudribbon/com.demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springclouddemo/springcloudservice/com.demo (1) (com.demo).iml" filepath="$PROJECT_DIR$/springclouddemo/springcloudservice/com.demo (1) (com.demo).iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring_demo/spring_demo.iml" filepath="$PROJECT_DIR$/spring/spring_demo/spring_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xiaogao.iml" filepath="$PROJECT_DIR$/.idea/xiaogao.iml" />
     </modules>
   </component>
